@@ -1,4 +1,4 @@
-/*
+/* Es el inicio Factorial openMP
 *  @Autores:
 *   - Carlos Valladares, 221164
 *   - Brandon Reyes, 22992
